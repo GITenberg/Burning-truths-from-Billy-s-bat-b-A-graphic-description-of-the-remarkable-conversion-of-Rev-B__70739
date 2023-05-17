@@ -1,0 +1,33 @@
+_repo: Burning-truths-from-Billy-s-bat-b-A-graphic-description-of-the-remarkable-conversion-of-Rev-B__70739
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Pallen, Joseph
+    gutenberg_agent_id: '55901'
+    url: http://www.gutenberg.org/2009/agents/55901
+creator:
+  author:
+    agent_name: Sunday, William Ashley
+    gutenberg_agent_id: '55900'
+    url: http://www.gutenberg.org/2009/agents/55900
+description: ''
+gutenberg_issued: '2023-05-11'
+identifiers:
+  gutenberg: '70739'
+language: en
+pgterms:marc904: https://archive.org/details/burningtruthsfro00sund
+pgterms:marc905: 20200101184348sunday
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: MFR and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bDiamond Publishing Co., $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Burning truths from Billy''s bat : $b A graphic description of the remarkable
+  conversion of Rev. "Billy" Sunday (the world''s famous evangelist)—embodying anecdotes,
+  terse sayings, etc., compiled from various sources'
+url: http://www.gutenberg.org/ebooks/70739
